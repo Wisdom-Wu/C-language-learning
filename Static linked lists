@@ -1,0 +1,17 @@
+#include <stdio.h>
+struct Node//define Node struct
+{
+    int data;//node data
+    struct Node *next;//node next pointer
+};
+
+int main()
+{
+    struct Node Node1 = {1, NULL};//initialize Node1
+    struct Node Node2 = {1, NULL};//initialize Node2
+    struct Node Node3 = {1, NULL};//initialize Node3
+    Node1.next = &Node2;//Node1 next pointer points to Node2
+    Node2.next = &Node3;//Node2 next pointer points to Node3
+
+    return 0;//return 0 to end program
+}

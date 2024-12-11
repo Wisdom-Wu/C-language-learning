@@ -1,7 +1,3 @@
-(Since I really didn't understand the specific implementation steps of linked lists in class, I wrote this blog to record the learning process, and interested novices can also follow along.)
-Q: What is a linked list?
-A: A linked list is a struct variable that is connected to a struct variable by a pointer
-The following is the code that implements a static linked list
 #include <stdio.h>
 struct Node//define Node struct
 {

@@ -1,5 +1,5 @@
-Step-by-step implementation of linked lists (requires some C language basics)
-
+#Step-by-step implementation of linked lists (requires some C language basics)
+##1.Recognize the structure of linked lists and create simple linked lists
 (Since I really didn't understand the specific implementation steps of linked lists in class, I wrote this blog to record the learning process, and interested novices can also follow along.)
 
 Q: What is a linked list?

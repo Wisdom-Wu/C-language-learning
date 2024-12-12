@@ -21,9 +21,9 @@ According to the classification of memory storage methods, linked lists can be d
 
 According to the form, linked lists can be divided into one-way linked lists, bidirectional linked lists, circular linked lists, one-way circular lists, and bidirectional circular linked lists.
 
-![](C:\Users\11151\Desktop\链表是单向还是双向.png)
+![循环或非循环](https://github.com/user-attachments/assets/bdbc36e5-16db-4b7e-8a46-9a2b1c9ab5f1)
+![链表是单向还是双向](https://github.com/user-attachments/assets/955b4b9f-1e65-4c89-926e-0d700fbbb1f5)
 
-![循环或非循环](C:\Users\11151\Desktop\循环或非循环.png)
 
 (The legend is very clear, so I won't explain too much)
 
